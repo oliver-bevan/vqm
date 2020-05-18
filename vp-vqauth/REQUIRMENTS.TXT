@@ -1,0 +1,3 @@
+google-cloud-secret-manager
+stripe
+google-cloud-firestore
